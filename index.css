@@ -1,0 +1,10 @@
+body {
+  background-color: aquamarine;
+  font-family: "Brush Script MT", cursive;
+}
+
+img {
+  float: right;
+  height: 100%;
+  padding-right: 5%;
+}
