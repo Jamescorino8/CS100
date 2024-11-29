@@ -1,0 +1,107 @@
+body {
+  background-color: rgb(0, 0, 0);
+}
+
+#container {
+  position: relative;
+  float: left;
+  width: 30%;
+  height: 100vh;
+  list-style: none;
+  font-family: Vigo;
+  text-transform: uppercase;
+  overflow: visible;
+}
+
+#container li {
+  position: absolute;
+  display: inline-block;
+  font-size: 1vmax;
+  top: 0;
+  left: 0;
+}
+
+.nevermore {
+  color: #ffcc00;
+  letter-spacing: -0.04em;
+  font-family: Trebuchet MS, sans-serif;
+  font-size: 3vmin;
+  transform: scale(10, 10) rotate(-90deg) translate(-2.7em, 0.1em);
+}
+.grim {
+  color: #1e1385;
+  letter-spacing: -0.04em;
+  font-family: OCR A Std, monospace;
+  font-size: 3vmin;
+  transform: scale(10, 10) rotate(-70deg) translate(-2.3em, 2.7em);
+}
+.ebony {
+  color: #00ff2a;
+  letter-spacing: -0.04em;
+  font-family: Snell Roundhand, cursive;
+  font-size: 3vmin;
+  transform: scale(7, 8) rotate(-130deg) translate(-5.6em, 3.2em);
+}
+.flutter {
+  color: #ffffff;
+  letter-spacing: -0.05em;
+  font-family: Jazz LET, fantasy;
+  font-size: 1vmin;
+  transform: scale(5, 16) rotate(-140deg) translate(-12.6em, 7.2em);
+}
+.chamber {
+  color: #ff0000;
+  letter-spacing: -0.16em;
+  font-family: Comic Sans MS, Comic Sans, cursive;
+  font-size: 1vmin;
+  transform: scale(10, 10) rotate(-100deg) translate(-7.9em, -1em);
+}
+.dream {
+  color: #ff00f2;
+  letter-spacing: -2em;
+  font-family: Jazz LET, fantasy;
+  font-size: 1vmin;
+  transform: scale(10, 10) rotate(-170deg) translate(-2.9em, -5.9em);
+}
+.implore {
+  color: #00ffff;
+  letter-spacing: -0.09em;
+  font-family: Gill Sans, sans-serif;
+  font-size: 3vmin;
+  transform: scale(10, 6) rotate(-139deg) translate(-4.9em, 2.3em);
+}
+.silken {
+  color: #3a7979;
+  letter-spacing: -0.09em;
+  font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+  font-size: 3vmin;
+  transform: scale(2, 6) rotate(-109deg) translate(-5.9em, 2.9em);
+}
+.surcrease {
+  color: #8273c2;
+  letter-spacing: -0.12em;
+  font-family: DejaVu Sans Mono, monospace;
+  font-size: 3vmin;
+  transform: scale(10, 14) rotate(-178deg) translate(-6.9em, -2.3em);
+}
+.Bleak {
+  color: #ff004c70;
+  letter-spacing: -0.12em;
+  font-family: courier, arial, helvetica;
+  font-size: 3vmin;
+  transform: scale(8, 20) rotate(-250deg) translate(-1.4em, -9.3em);
+}
+.Dreary {
+  color: #ff9ab8d8;
+  letter-spacing: -0.2em;
+  font-family: Comic Sans MS, Comic Sans, cursive;
+  font-size: 3vmin;
+  transform: scale(8.5, 20) rotate(-270deg) translate(3.4em, -10.3em);
+}
+.lenore {
+  color: #00ffc8c0;
+  letter-spacing: -0.19em;
+  font-family: Trattatello, fantasy;
+  font-size: 3vmin;
+  transform: scale(8.5, 20) rotate(-270deg) translate(3.4em, -3.3em);
+}
